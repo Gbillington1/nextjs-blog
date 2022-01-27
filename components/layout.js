@@ -47,7 +47,7 @@ export default function Layout({ children, home }) {
                             <a>
                                 <Image
                                     priority
-                                    src="/images/propic.jpg"
+                                    src="/images/proPic.jpg"
                                     className="rounded-full"
                                     height="144"
                                     width="144"
